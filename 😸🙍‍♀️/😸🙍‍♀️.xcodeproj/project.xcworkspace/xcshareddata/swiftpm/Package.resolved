@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Suits",
+        "repositoryURL": "https://github.com/sam-meech-ward-lighthouse-labs/Suits",
+        "state": {
+          "branch": null,
+          "revision": "38b90b5d7e357bd261ac063e964bb20531673116",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
